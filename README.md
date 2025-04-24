@@ -39,6 +39,10 @@ We use this categorical data encoding technique when the features are nominal(do
 
 # CODING AND OUTPUT:
 ```
+Developed By : HARSHITHA V
+Register No : 212223230074
+```
+```
 from google.colab import drive
 import pandas as pd
 
